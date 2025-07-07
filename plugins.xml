@@ -1,0 +1,19 @@
+<plugins>
+  <plugin name="QDeliveryCheck">
+    <version>1.0.13</version>
+    <description>QDeliveryCheck</description>
+    <about>
+      Plugin QDeliveryCheck en python3 pour Qgis 3.
+    </about>
+    <version_available>1.0.0</version_available>
+    <download_url>https://gis.jdev.fr/qdeliverycheck/QDeliveryCheck.1.0.0.zip</download_url>
+    <file_name>QDeliveryCheck.1.0.13.zip</file_name>
+    <icon></icon> <!-- Optionnel -->
+    <author>https://gitlab.com/someware/deliverycheck/qdeliverycheck#copyright-and-license</author>
+    <homepage>https://gitlab.com/someware/deliverycheck</homepage>
+    <tracker>https://gitlab.com/someware/deliverycheck/qdeliverycheck/-/issues</tracker> <!-- Optionnel -->
+    <repository>https://gitlab.com/someware/deliverycheck/qdeliverycheck.git</repository>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <experimental>False</experimental>
+  </plugin>
+</plugins>
