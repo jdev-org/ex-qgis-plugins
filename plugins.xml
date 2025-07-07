@@ -6,7 +6,7 @@
       Plugin QDeliveryCheck en python3 pour QGIS 3.
     </about>
     <version_available>1.0.13</version_available>
-    <download_url>https://github.com/jdev-org/ex-qgis-plugins/raw/refs/heads/main/QDeliveryCheck.1.0.13.zip</download_url>
+    <download_url>https://gis.jdev.fr/qdeliverycheck/QDeliveryCheck.1.0.13.zip</download_url>
     <file_name>QDeliveryCheck.1.0.13.zip</file_name>
     <author>Someware</author>
     <homepage>https://someware.gitlab.io/deliverycheck/qdeliverycheck/</homepage>
